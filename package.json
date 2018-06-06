@@ -1,0 +1,11 @@
+{
+  "name": "sample-ms-auth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "nodemailer": "^4.6.5"
+  }
+}
